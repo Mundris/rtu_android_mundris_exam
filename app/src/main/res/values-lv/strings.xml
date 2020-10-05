@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keep Notes replika</string>
+    <string name="note_title_hint">Virsraksts</string>
+    <string name="note_text_hint">Piezīmes</string>
+    <string name="theme_switch">Tēmu pārslēdzējs</string>
+
+</resources>

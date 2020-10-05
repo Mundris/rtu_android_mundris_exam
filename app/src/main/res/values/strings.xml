@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Keep Notes replica</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_text_hint">Note</string>
+    <string name="theme_switch">Theme switch</string>
+
+</resources>

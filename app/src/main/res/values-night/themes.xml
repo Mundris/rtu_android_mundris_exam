@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Notes" parent="Theme.MaterialComponents">
+        <!-- Customize your theme here. -->
+        <item name="colorOnSurface">@color/primaryColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/primaryColor</item>
+        <item name="colorPrimary">@color/secondaryColor</item>
+    </style>
+</resources>
